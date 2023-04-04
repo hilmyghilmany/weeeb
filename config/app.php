@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://hilmyghilmany.github.io/weeeb/'),
 
     'asset_url' => env('ASSET_URL', null),
 
